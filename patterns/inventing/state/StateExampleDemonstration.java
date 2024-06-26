@@ -1,4 +1,4 @@
-public final class StateDemonstration {
+public final class StateExampleDemonstration {
     public static void main(String[] args) {
         FridgeContext FridgeA = new FridgeContext("Azkl");
         FridgeContext FridgeB = new FridgeContext("Banana");
